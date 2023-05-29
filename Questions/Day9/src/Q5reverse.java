@@ -5,7 +5,7 @@ public class Q5reverse {
         while(num>0){
             int remender = num%10;
             num = num/10;
-             sum = sum*10+remender; //formula to reverse an number 
+             sum = sum*10+remender; //formula to reverse an number
 
         }
         System.out.println(sum);
