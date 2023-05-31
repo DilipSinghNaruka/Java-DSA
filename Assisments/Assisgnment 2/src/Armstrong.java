@@ -3,7 +3,7 @@ package src;
 public class Armstrong {
     //To find Armstrong Number between two given number.
 
-    // this is not solved 
+    // this is not solved
     public static void main(String[] args) {
         int start = 0;
         int end = 200;
